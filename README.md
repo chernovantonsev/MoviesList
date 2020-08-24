@@ -4,6 +4,11 @@
 также должен быть переключатель, который фильтрует фильмы по году: отобразить все фильмы
 или отобразить только за 2020 год.
 
+
+<p align="center">
+  <img src="screenshots/Screenshot_20200824_184448_ru.antonc.movieslist.jpg" height="350" title="Скриншот">
+</p>
+
 Приложение должно запрашивать данные по ссылке:
 https://raw.githubusercontent.com/ar2code/apitest/master/movies.json
 Стек технологий:
