@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoviesList</string>
+    <string name="show_only_2020">Показать только за 2020 год</string>
+    <string name="error_while_update">Ошибка при обновлении</string>
+    <string name="error_no_connection">Нет подключения к интернету</string>
+    <string name="text_no_items">Список пуст</string>
+    <string name="text_swipe_to_refresh">Потяните вниз для обновления</string>
 </resources>
