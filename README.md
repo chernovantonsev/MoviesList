@@ -11,7 +11,9 @@
 
 Приложение должно запрашивать данные по ссылке:
 https://raw.githubusercontent.com/ar2code/apitest/master/movies.json
+
 Стек технологий:
+
 • Kotlin
 • Kotlin coroutines
 • Android jetpack (AndroidX, ViewModel, Lifecycles, LiveData, не используйте DataBinding).
@@ -19,7 +21,9 @@ https://raw.githubusercontent.com/ar2code/apitest/master/movies.json
 • Retrofit
 • Clean Architecture
 • Многомодульность
+
 Требования к приложению:
+
 Не используйте сторонние Frameworks, например, Moxy, - реализация своя. Приложение должно
 кешировать данные от API в памяти после первого запуска. Фильтрация списка должна быть
 «живой», достаточно стандартной анимации RecyclerView при добавлении/удалении. Хорошо,
